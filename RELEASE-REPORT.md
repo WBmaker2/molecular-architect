@@ -6,8 +6,8 @@
 
 - 저장소: [WBmaker2/molecular-architect](https://github.com/WBmaker2/molecular-architect)
 - 공개 앱: [https://wbmaker2.github.io/molecular-architect/](https://wbmaker2.github.io/molecular-architect/)
-- 릴리스 커밋: `9f5c989`
-- Pages Actions run: [34787911881](https://github.com/WBmaker2/molecular-architect/actions/runs/34787911881)
+- 릴리스 커밋: `a95d7511ba70a6ce81ff8edcdb7a07c2df0e0bfe` (공개 QA 시각 보완 포함)
+- Pages Actions run: [34788282500](https://github.com/WBmaker2/molecular-architect/actions/runs/34788282500)
 - Pages 방식: GitHub Actions workflow
 
 ## 구현·자동 검증
