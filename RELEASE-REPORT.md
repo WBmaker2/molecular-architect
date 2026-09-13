@@ -34,6 +34,7 @@ ego-browser에서 확인했습니다.
 - 1280/360/320px: `scrollWidth === clientWidth`
 - `?force2d=1` + SF₆: fallback에서 주변 원자 6개, 결합선 6개, 기호·벡터 표시
 - 공개 카드 순회 중 `window` error/unhandled rejection: 0건
+- 공개 첫 화면 screenshot: `.intro-art`의 WebP 이미지가 반투명 레이어 아래 명확히 보이고 캡션 대비 유지
 
 ## 미검증 범위
 
