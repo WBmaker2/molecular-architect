@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+.env*
+
+# Local QA artifacts
+qa-artifacts/
+screenshots/
+qa-*.png
+qa-*.jpg
+qa-*.jpeg
